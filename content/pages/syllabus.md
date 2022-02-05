@@ -35,14 +35,75 @@ First, we will examine the period which stretches from the 7th century (C.E.) to
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 20% |
-| Reaction Papers | 10% |
-| Short Essay | 15% |
-| Final Essay | 25% |
-| Final Exam | 25% |
-| Two Map Quizzes | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reaction Papers
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short Essay
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Essay
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Map Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For detailed descriptions of the above, please visit [assignments]({{< baseurl >}}/pages/assignments) and [exams]({{< baseurl >}}/pages/exams).
 
@@ -86,19 +147,209 @@ Concise topical account with good summaries.
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # |  TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1-2 | Introduction | No reaction paper due in Ses #2 |
-| 3-5 | Overview, "Islamic Civilization" |  {{< br >}}{{< br >}} Map quiz in Ses #5 {{< br >}}{{< br >}} Students choose a week to lead class discussion {{< br >}}{{< br >}}  |
-| 6-8 | Islam in Europe: Andalusia | &nbsp; |
-| 9-10 | Europeans in Islamdom: The Crusades |  {{< br >}}{{< br >}} Short essay due in Ses #9 {{< br >}}{{< br >}} Critical reading review due two days after Ses #10 {{< br >}}{{< br >}}  |
-| 11-12 | Europe and the Middle East: A Shared Renaissance | &nbsp; |
-| 13-14 | Early Modern Age: The House of Osman and the Expansion of the West | &nbsp; |
-| 15-17 | The Middle East in the Age of Napoleon's Invasion | &nbsp; |
-| 18-20 | Islam and the Middle East in European Thought | &nbsp; |
-| 21-23 | Ethnic Representations in the Nationalist Age | &nbsp; |
-| 24-25 | When Turkey Went West: From _Tanzimat_ to Atatürk | &nbsp; |
-| 26-28 | Resistance and Independence | &nbsp; |
-| 29-30 | Migrations | First draft of final essay due in Ses #30 |
-| 31-33 | Islamic Revolution, Terrorism, and Us | &nbsp; |
-| 34-36 | Final Essays and Oral Presentations |  {{< br >}}{{< br >}} Final essay due in Ses #34 {{< br >}}{{< br >}} Oral presentations of final essay in Ses #34, #35, and #36 {{< br >}}{{< br >}} Final exam and map quiz 11 days after Ses #36 {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+ TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+No reaction paper due in Ses #2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-5
+{{< tdclose >}}
+{{< tdopen >}}
+Overview, "Islamic Civilization"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Map quiz in Ses #5
+
+Students choose a week to lead class discussion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-8
+{{< tdclose >}}
+{{< tdopen >}}
+Islam in Europe: Andalusia
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-10
+{{< tdclose >}}
+{{< tdopen >}}
+Europeans in Islamdom: The Crusades
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Short essay due in Ses #9
+
+Critical reading review due two days after Ses #10
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Europe and the Middle East: A Shared Renaissance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Early Modern Age: The House of Osman and the Expansion of the West
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-17
+{{< tdclose >}}
+{{< tdopen >}}
+The Middle East in the Age of Napoleon's Invasion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-20
+{{< tdclose >}}
+{{< tdopen >}}
+Islam and the Middle East in European Thought
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-23
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnic Representations in the Nationalist Age
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24-25
+{{< tdclose >}}
+{{< tdopen >}}
+When Turkey Went West: From _Tanzimat_ to Atatürk
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26-28
+{{< tdclose >}}
+{{< tdopen >}}
+Resistance and Independence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29-30
+{{< tdclose >}}
+{{< tdopen >}}
+Migrations
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of final essay due in Ses #30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31-33
+{{< tdclose >}}
+{{< tdopen >}}
+Islamic Revolution, Terrorism, and Us
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34-36
+{{< tdclose >}}
+{{< tdopen >}}
+Final Essays and Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final essay due in Ses #34
+
+Oral presentations of final essay in Ses #34, #35, and #36
+
+Final exam and map quiz 11 days after Ses #36
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
