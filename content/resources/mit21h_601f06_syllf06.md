@@ -7,6 +7,7 @@ description: This resource contains information about aims to provide students w
   United States).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/76b819db18cf65bece995d30c0839d9e_MIT21H_601f06_syllf06.pdf
 file_type: application/pdf
+parent_uid: 98f043f8-e789-098a-c013-ab5ae1c17430
 resourcetype: Document
 title: MIT21H_601f06_syllf06.pdf
 uid: 76b819db-18cf-65be-ce99-5d30c0839d9e
